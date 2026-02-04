@@ -1,0 +1,15 @@
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\bin\Debug\net10.0\ProductApi.Application.deps.json
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\bin\Debug\net10.0\ProductApi.Application.dll
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\bin\Debug\net10.0\ProductApi.Application.pdb
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\bin\Debug\net10.0\ProductApi.Domain.dll
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\bin\Debug\net10.0\ProductApi.Domain.pdb
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.csproj.AssemblyReference.cache
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.AssemblyInfoInputs.cache
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.AssemblyInfo.cs
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.csproj.CoreCompileInputs.cache
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductA.E443A747.Up2Date
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.dll
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\refint\ProductApi.Application.dll
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ProductApi.Application.pdb
+D:\Shivani\Practical Test\ProductApi.CleanArchitecture\src\ProductApi.Application\obj\Debug\net10.0\ref\ProductApi.Application.dll

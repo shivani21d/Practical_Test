@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "1AUXIO0sQAg=",
+  "success": true,
+  "projectFilePath": "D:\\Shivani\\Practical Test\\ProductApi.CleanArchitecture\\src\\ProductApi.WebApi\\ProductApi.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silas\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.2\\microsoft.data.sqlite.core.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.2\\microsoft.entityframeworkcore.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.2\\microsoft.entityframeworkcore.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.2\\microsoft.entityframeworkcore.analyzers.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.2\\microsoft.entityframeworkcore.relational.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\10.0.2\\microsoft.entityframeworkcore.sqlite.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\10.0.2\\microsoft.entityframeworkcore.sqlite.core.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.2\\microsoft.extensions.dependencymodel.10.0.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Silas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAPykH0HtGo=",
+  "success": true,
+  "projectFilePath": "D:\\Shivani\\Practical Test\\ProductApi.CleanArchitecture\\src\\ProductApi.Application\\ProductApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silas\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
